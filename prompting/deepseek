@@ -1,0 +1,47 @@
+# Step-by-Step Guide: Using DeepSeek to Understand Attention Transformers
+
+A simple, non-technical guide to signing up for DeepSeek and asking about AI concepts like attention transformers, context windows, and quirks like jailbreaking.
+
+---
+
+## Table of Contents
+1. [Visit DeepSeek.com](#1-visit-deepseekcom)
+2. [Sign Up for an Account](#2-sign-up-for-an-account)
+3. [Log In to DeepSeek](#3-log-in-to-deepseek)
+4. [Ask About Attention Transformers](#4-ask-about-attention-transformers)
+5. [Understanding the Response](#5-understanding-the-response)
+6. [Tips for Clarity](#tips-for-clarity)
+7. [Troubleshooting](#troubleshooting)
+
+---
+
+## 1. Visit DeepSeek.com
+1. Open your internet browser (e.g., Chrome, Safari, Firefox).  
+2. Type `https://deepseek.com` into the address bar and press **Enter**.  
+   *(Double-check for typos like "deepesek" or "deepseek.net")*  
+
+---
+
+## 2. Sign Up for an Account
+1. Click the **Sign Up** button (usually at the top-right corner).  
+2. Fill in your details:  
+   - **Email address** (use one you can access).  
+   - **Create a password** (follow any rules shown, e.g., 8+ characters).  
+3. Verify your email:  
+   - Check your inbox (or spam folder) for a confirmation email.  
+   - Click the verification link in the email to activate your account.  
+
+---
+
+## 3. Log In to DeepSeek
+1. Go back to [DeepSeek.com](https://deepseek.com).  
+2. Click **Log In** (top-right).  
+3. Enter your email and password, then click **Submit**.  
+
+---
+
+## 4. Ask About Attention Transformers
+1. Locate the chat/query box (typically at the bottom of the screen).  
+2. Type your question in plain language. Example:  
+   ```text
+   "Can you explain what an attention transformer is and how it works? Include examples like context windows, system prompts, and quirks like jailbreaking."
